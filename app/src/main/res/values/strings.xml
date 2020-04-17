@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Financepeer</string>
+    <string name="cam">cam</string>
+    <string name="image">Image</string>
+    <string name="home">Home</string>
+    <string name="nav">Navigation</string>
+    <string name="get_list">On click get the data from local DB</string>
+    <string name="api_calling">API calling</string>
+    <string name="star">star</string>
+    <string name="click_to_take_pic">Click to take picker</string>
+    <string name="movies_list">Movies List</string>
+    <string name="camera">camera</string>
+    <string name="list_for_local_DB">List from local DB</string>
+    <string name="slide_show">Slide show</string>
+    <string name="click_to_loaction">Click to get location</string>
+    <string name="local_db">Local DB</string>
+
+</resources>

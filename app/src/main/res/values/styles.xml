@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorButtonNormal</item>
+        <item name="colorPrimaryDark">@color/windowBackground</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorButtonNormal">@color/colorButtonNormal</item>
+        <item name="android:windowBackground">@color/windowBackground</item>
+        <item name="colorControlHighlight">@color/gray</item>
+        <item name="android:textColorPrimary">@color/colorButtonNormal</item>
+    </style>
+
+</resources>
